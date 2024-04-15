@@ -1,0 +1,86 @@
+[
+  {
+    "sortOrder" : 3,
+    "answer" : "Till its out of wood",
+    "linkType" : "Local Video",
+    "link" : {
+      "title" : "Woodchuck",
+      "url" : "woodchuck.mov"
+    },
+    "level" : 1,
+    "question" : "How long does a woodchuck chuck wood?"
+  },
+  {
+    "question" : "How can I add more items to the application?",
+    "sortOrder" : 1,
+    "linkType" : "none",
+    "level" : 1,
+    "answer" : "You can choose 'New Application' from the File Menu"
+  },
+  {
+    "link" : {
+      "title" : "Stewart Lynch on YouTube",
+      "url" : "https:\/\/youtube.com\/@StewartLynch"
+    },
+    "answer" : "There are lots of great resources out there.  100DaysOfSwiftUI by Paul Hudson is a great place to start but you also might like to watch videos created by Stewart Lynch who focusses on this topic.",
+    "sortOrder" : 2,
+    "question" : "I am interested in learning how to develop applications in SwiftUI.  Do you have any suggestions for learning?",
+    "linkType" : "External Link",
+    "level" : 2
+  },
+  {
+    "answer" : "Yes. Just create a folder within the html folder and make sure your start page is titled 'index.html'",
+    "linkType" : "Local Link",
+    "link" : {
+      "title" : "Show Example",
+      "url" : "FolderHTML"
+    },
+    "sortOrder" : 5,
+    "question" : "Can I display more complex html pages?",
+    "level" : 1
+  },
+  {
+    "question" : "Can I add my own html pages to my FAQs",
+    "answer" : "Yes, the simplest type is the single html page with no images.",
+    "linkType" : "Local Link",
+    "level" : 1,
+    "sortOrder" : 6,
+    "link" : {
+      "url" : "Sample.html",
+      "title" : "Show Example"
+    }
+  },
+  {
+    "question" : "Does this developer have more applications?",
+    "sortOrder" : 1,
+    "answer" : "Yes, this developer has created many applications.  You can find out more about them on his web site.  See the link below",
+    "level" : 2,
+    "link" : {
+      "title" : "CreaTECH App Portfolio",
+      "url" : "https:\/\/www.createchsol.com\/appPortfolio\/"
+    },
+    "linkType" : "External Link"
+  },
+  {
+    "sortOrder" : 4,
+    "question" : "Whats the last game you brought?",
+    "answer" : "Mario Tennis Open - (3DS)",
+    "linkType" : "Local Image",
+    "link" : {
+      "title" : "Mario Tennis Open",
+      "url" : "Mario Tennis Open.jpg"
+    },
+    "level" : 1
+  },
+  {
+    "sortOrder" : 2,
+    "level" : 1,
+    "question" : "Wher can I find more information about the developer?",
+    "link" : {
+      "title" : "Google",
+      "url" : "http:\/\/www.bing.com"
+    },
+    "answer" : "You don't stop being nosey!",
+    "linkType" : "External Link"
+  }
+]
